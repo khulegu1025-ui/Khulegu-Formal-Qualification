@@ -8,7 +8,7 @@ This repository contains the official documentation of my academic achievements 
 
 
 ### Key Achievements:
-* **Elite Graduation Rate:** Successfully completed a high-intensity 512-hour program with a **1.3% graduation rate** (2 out of 150 students).
+* **Elite Graduation Rate:** Successfully completed a high-intensity 512-hour program with a **1.3% graduation rate** (2 out of 100 students).
 * **Perfect Score:** Achieved **100/100 in Algorithm Design & Analysis**.
 * **Academic Average:** 91.7% (Grade A).
 
