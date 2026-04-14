@@ -6,6 +6,7 @@ This repository contains the official documentation of my academic achievements 
 **Issued by:** National Academy of Information Technology (Ehlel Academy), Mongolia
 **Date:** December 2023
 
+
 ### Key Achievements:
 * **Elite Graduation Rate:** Successfully completed a high-intensity 512-hour program with a **1.3% graduation rate** (2 out of 150 students).
 * **Perfect Score:** Achieved **100/100 in Algorithm Design & Analysis**.
